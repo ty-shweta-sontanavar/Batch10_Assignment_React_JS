@@ -1,0 +1,12 @@
+*{
+    align-content: center;
+}
+
+.Card{
+    align-content: center;
+    font-size:larger ;
+}
+.Card.header{
+   font-style: italic;
+
+}
